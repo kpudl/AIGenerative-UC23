@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UseCase23/bin/Debug/net6.0
+/UseCase23/.vs/UseCase23/DesignTimeBuild
+/UseCase23/.vs/UseCase23/FileContentIndex
+/UseCase23/obj/Release/net6.0
+/UseCase23/obj
+/UseCase23/.vs/ProjectEvaluation
+/UseCase23/.vs/UseCase23/v17
+/.vs/AIGenerative-UC23/v17
+*.json
+*.sqlite
